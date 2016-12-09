@@ -18,3 +18,5 @@ We booked a meeting for tomorrow to present our game ideas. In preparation for t
 <a href="https://www.icloud.com/keynote/0Cdq5TO-FruJClMEa9GtM-tKA#DH2650Pitch" class="fancybox" target="_blank" rel="external">
 ![Pitch](./images/pitch-keynote.png)
 </a>
+
+I have also created some concept art showing how some of the tiles could look. This is in order to further consolidate the game's aesthetic of direction as well as to get people exited for the game.
